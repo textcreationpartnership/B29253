@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>St. Pauls life and travels from his conversion. And also his several sufferings, unto his martyrdom at Rome. Collected from sacred scripture and serious historians.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29253</idno><idno type="EEBO-CITATION">99885378</idno>
+  <idno type="VID">201311</idno>
+  <idno type="EEBO-PROQUEST">2264212695</idno>
+  
+            <idno type="STC">Wing S349</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[37]</idno>
+            <idno type="STC">ESTC R222961</idno>
+            <idno type="PROQUEST">ocm99885378</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885378e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201311)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>St. Pauls life and travels from his conversion. And also his several sufferings, unto his martyrdom at Rome. Collected from sacred scripture and serious historians.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Phillip Brooksby in West-smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place and date of publication from Wing.</note>
+                  <note>Printed in two columns, with ornamental divider and border.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Paul, --  the Apostle, Saint --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201311:1"/>
+            <head>S<seg rend="sup">t.</seg> PAULS LIFE and TRAVELS From His Conversion. And also his several Sufferings, unto His Martyrdom at <hi>Rome.</hi> Collected from Sacred SCRIPTURE and Serious HISTORIANS.</head>
+            <head type="sub">The Life and Travels of St. <hi>Paul</hi> from his Conversion to his Martyrdom.</head>
+            <p>AMongst the <hi>Jewish</hi> N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, a certain <hi>Benjamite</hi> inhabited in the City of <hi>Tarsus,</hi> from whence descended that bles<g ref="char:EOLhyphen"/>sed Apostle St. <hi>Paul,</hi> who was by his father called <hi>Saul,</hi> in evedence that he was an <hi>Hebrew</hi> of the <hi>Hebrews.</hi>
+            </p>
+            <p>He was sent from <hi>Tarsus</hi> unto <hi>Jerusalem</hi> to be in<g ref="char:EOLhyphen"/>structed in sacred knowledge, and at the feet of <hi>Gamaliel</hi> a Doctor of the Law, he was set to study the Holy Scriptures, in which he pro<g ref="char:EOLhyphen"/>fited beyond all his Fel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow-studients.</p>
+            <p>Here eager of his Learning and Religion, he drew in the Do<g ref="char:EOLhyphen"/>ctrine of the Pharisees.</p>
+            <p>About which time the promised <hi>Mesiah</hi> appeared, <hi>Saul</hi> at <hi>Jerusalem,</hi> was so intent that this news of the <hi>Mesiah</hi> found no entertainment from him.</p>
+            <p>Christ being crucified at the great <hi>Pascha</hi> Feast, and at <hi>Pentecost;</hi> the Holy Ghost coming upon the Apostles, enabling them to speak Languages, and work Miracles, many became their converts, so that by the feast of Tabernacles, there was a necessity to ordain Deacons, and of these seven were appointed, whereof <hi>Stephen</hi> was one; they were not more zealous in spreading the Gospel, than the <hi>Jews</hi> were enviously opposite; amongst which <hi>Saul</hi> of <hi>Tarsus</hi> was not the least. The first q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arrel was the Synagogue of the <hi>Libertines</hi> against <hi>Stephen,</hi> supposed to have been at the next Feast, following the Feast of Tabernacles, at which time <hi>Stephen</hi> received Ordination; at which time <hi>Stephen</hi> was apprehended by those <hi>Libertines,</hi> and before the Councel tumultuously condemned and stoned to death. But devout men exposed themse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves to the <hi>Jews</hi> displeasure by sollemn lamenta<g ref="char:EOLhyphen"/>tion and convenient burial.</p>
+            <p>These persecutors much enraged made great havock; and under this Councel that condemned <hi>Stephen, Sau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> was then an ement Offi<g ref="char:EOLhyphen"/>cer and gave his vote to his death, and was in special imploy to see the Execution done, and was zealously mad and furious to destroy and imprison all that fell in his way, and to accomplish his design, he got Letters from the High-Priest, directed to the Synagogues in <hi>Damascus,</hi> to bind and bring away all that should own the name of Christ.</p>
+            <p>But in this his hast going to <hi>Damascus,</hi> a bright light appeared round him, and he was cast upon the ground, greatly astonished, and a voice speaking unto him saying, <hi>Saul, Saul, why persecutest thou me?</hi>
+            </p>
+            <p>This miraculous voice and stroke cooled <hi>Paul's</hi> courage, and he lay <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mbling, his heart turned, and his note was changed, he immediate<g ref="char:EOLhyphen"/>ly became obedient to the Heavenly voice.</p>
+            <p>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing led into <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he City, for he was st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uck blind with the light; three days after <hi>Ananias</hi> by Divine appointment baptized him, and constit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted him a Gospel preacher, and <hi>Saul</hi> immediately began to preach up that Doctrine in the <hi>Jewish</hi> Synagogues, and confounded his <hi>Jewish</hi> adversaries by Scripture arguments out of the Law and Prophets, proving that that Jesus that they had so lately crucified was the very Christ.</p>
+            <p>For which the <hi>Jews</hi> instead of being convinced, go about to kill him, but few days after he left <hi>Damascus,</hi> and went into <hi>Arabia,</hi> and there he continued the space of three years.</p>
+            <p>
+               <hi>Saul</hi> returning back to <hi>Damascus</hi> about the 23 of <hi>Tiberius,</hi> but here again he finds the same malicious spirit remaining in the <hi>Jews,</hi> and to escape wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h his life, was fain to be let down in a Basket over the Town Wall, and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om thence he went to <hi>Jerusalem</hi> abou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Feast of Tabernacles.</p>
+            <p>All this time had he seen none of the Apostles, but now coming to <hi>Jerusa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em</hi> he met with St. <hi>Peter,</hi> who at first with others shunned <hi>Paul</hi> But <hi>Barnabas</hi> wrought his Introduction am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng them. <hi>Paul</hi> af<g ref="char:EOLhyphen"/>ter fifteen days labour and pains bestowed to little purpose, left <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>rusalem,</hi> and went down to <hi>Cesaria,</hi> and from thence through <hi>Phoe<g ref="char:EOLhyphen"/>nicia, Syria,</hi> and <hi>Cylicia,</hi> and so to <hi>Tarsus. Saul</hi> goes with <hi>Barnabas</hi> to <hi>Antioch,</hi> where he continued one whole year, and after a la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> col<g ref="char:EOLhyphen"/>lect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, made for the poor Saints at <hi>Jerusalem,</hi> it was carried by the hands of <hi>Barnabas</hi> and <hi>Paul,</hi> where they both continued.</p>
+            <p>
+               <hi>Paul</hi> being in an extasie as he was praying in the Temple, was caught up into the third Heaven, where he heard words unspeakable, and was commanded quickly to be gone out of <hi>Jerusalem,</hi> and to go to the Genti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es.</p>
+            <p>
+               <hi>Saul</hi> returns back to <hi>Antioch,</hi> where the Holy Ghost spake openly by vision, saying, <hi>Seperate me</hi> Barnabas <hi>and</hi> Paul, <hi>for the work of the Ministry:</hi> and from henceforward he was called <hi>Paul.</hi>
+            </p>
+            <p>
+               <hi>Paul</hi> and <hi>Barnabas</hi> leave <hi>Antioch,</hi> and at first come to <hi>Selucia</hi> neer the Sea, and from thence sailed unto <hi>Salamis</hi> in the Isle of <hi>Cyprus,</hi> and after some stay journeyed over the Island unto <hi>Paphos,</hi> where <hi>Sergius Paulus</hi> the Governour held his seat, and was by them conver<g ref="char:EOLhyphen"/>ted to the faith by miracle, having first smote <hi>Barjesus</hi> a Sorcerer with blindness, who opposed them.</p>
+            <p>In the Spring they crost the Sea to <hi>Perga</hi> in <hi>Pamphilia,</hi> from hence <hi>John Mark</hi> returns to <hi>Jerusalem,</hi> and <hi>Paul</hi> goes as far as <hi>An<g ref="char:EOLhyphen"/>tioch</hi> in <hi>Psidia,</hi> where Preaching in vain to the <hi>Jews,</hi> he returns to the <hi>Gentiles,</hi> where crowds of converts come in.</p>
+            <p>From hence they travail to <hi>Iconia,</hi> the principal City of <hi>Lycaonia.</hi>
+            </p>
+            <p>This year happened the Famine spoken of by <hi>Agabus.</hi>
+            </p>
+            <p>
+               <hi>Paul</hi> and <hi>Barnabas</hi> continue Preaching at <hi>Iconia,</hi> but were quickly driven away by the Tumultuous Envious <hi>Iews,</hi> and went on Preach<g ref="char:EOLhyphen"/>ing at <hi>Lystra,</hi> where they cure a lame man miracu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ously, but they were pursued with Malice, and here they stoned <hi>Paul,</hi> who was by Miracle restored to l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe again, and went with <hi>Barnabas</hi> for <hi>Derbe,</hi> where having setled the Church, they return to <hi>Lystra.</hi>
+            </p>
+            <p>Where having Ordained Elders, they return to <hi>Iconium,</hi> and from thence they came to <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntioch</hi> in <hi>Psidia,</hi> from thence they came back to <hi>Perga,</hi> and from thence to <hi>Attalia,</hi> thence they return th ough <hi>Cilicia,</hi> and <hi>Syria,</hi> unto <hi>Antioch</hi> in <hi>Syria,</hi> and whilst they continued at <hi>Antioch,</hi> certain <hi>Iews</hi> disturb the Church, whence arose great di<g ref="char:EOLhyphen"/>sputes, <hi>Barnabas</hi> and <hi>Paul</hi> thereupon are sent to <hi>Ierusalem,</hi> to deter<g ref="char:EOLhyphen"/>mine those controversies, where it was ordain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and decreed, and they both return to <hi>Antioch,</hi> to the full satisfaction of the Churches.</p>
+            <p>
+               <hi>Paul</hi> after some fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling out, parts with <hi>Barnabas,</hi> and <hi>Iohn, Mark,</hi> and <hi>Paul,</hi> and <hi>Silas,</hi> depart into <hi>Asia. Paul</hi> travails through <hi>Syria,</hi> and <hi>Cilicia,</hi> unto <hi>Derbe,</hi> unto <hi>Lyconia,</hi> and so through <hi>Phrygia</hi> and <hi>Gala<g ref="char:EOLhyphen"/>tia,</hi> and <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithinia,</hi> and so to <hi>Troas,</hi> in <hi>Myssia:</hi> from hence shipt to the Isle of <hi>Samothraet,</hi> and thence to <hi>Neopolis,</hi> and so to <hi>Phi<g ref="char:EOLhyphen"/>lippine</hi> in <hi>Macedonia, Lydia</hi> converted, and others, also the Jaylor, on the morrow being dismist they went to <hi>Amphipolis,</hi> and so to <hi>Appo<g ref="char:EOLhyphen"/>lonia,</hi> and thence towards <hi>Thessalonica,</hi> but being persecuted at <hi>Per<g ref="char:EOLhyphen"/>sia, Paul</hi> sailed away by Sea to <hi>Athens,</hi> where <hi>Paul</hi> had many dis<g ref="char:EOLhyphen"/>putations, and converted <hi>Dionysius,</hi> and one <hi>Damaris,</hi> and others; from hence <hi>Paul</hi> wrote the First and Second Epistle to the <hi>Thessa<g ref="char:EOLhyphen"/>lonians,</hi> and from <hi>Athens</hi> he went to <hi>Corinth,</hi> at <hi>Corinth Paul</hi> had a Vision, to encourage his Preaching. Here he made Tents with <hi>Aquilla</hi> and <hi>Priscilla</hi> preaching in the house of <hi>Justus. Paul</hi> leaves <hi>Silas</hi> to govern the Church of <hi>Corinth,</hi> and sails to <hi>Ephesus,</hi> in <hi>Asia,</hi> leaving <hi>Timothy</hi> to govern, he sailed to the Isle of <hi>Creta,</hi> where having setled a Church he left the care to <hi>Titus,</hi> and so sailed to <hi>Cesaria</hi> in <hi>Canaan,</hi> and so went up to <hi>Jerusa em,</hi> and thence to <hi>Antioch,</hi> and so began a third voyage, through <hi>Ga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atia,</hi> &amp; <hi>Phrygia,</hi> and so to <hi>Ephesus,</hi> where he preached two whole years in the School of <hi>Tyrannus,</hi> where he did many miracles, and foiled seven sons of <hi>Sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>va,</hi> a Jew attempting to cast out Devils. St. <hi>Phillip</hi> being dead, St. <hi>Pau</hi> was called to be an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>postle, and was reckoned amongst the Twelve, and ever after writ himself an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>postle, many burnt their books, but <hi>Demetrius</hi> the Silver<g ref="char:EOLhyphen"/>smith raiseth a tumult. Hence <hi>Paul</hi> wrote the first Epistle to the <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> and sent it by <hi>Timothy, Paul</hi> left <hi>Timothy</hi> at Ephesus, and went into Macedonia, passing by Troas, whence he wrote the second Epistle to the Corinthians, thence he wrote to Titus in Crete, from Nicapolis, Paul come to Corinth, whence he wrote the Epistle to the Romans. Hence he went to Philipi, from whence he went by Sea <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oas in Asia, where he restored Eutechus to life, thence went he to Affos, and so to Mytelene, to the isle of Chios, to Samos, to Trogilium, to Micales, to Miletus. Hence sailed he away to Chaos, and so to Rhoodes, hence to Cyprus, unto Tire.</p>
+            <p>Hence sai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed he again to Ptolamais; and thence to Cesaria, here he was told of the ill usage he should meet with at Jerusalem, yet went he on thither, and being found in the Temple, he was apprehended and buffeted, but was rescued by Lysias the chief Captain, and found to be a Roman, and was sent to Cesaria before Felix, who condis<g ref="char:EOLhyphen"/>cended to hear Paul preach, and after two years left Paul in prison, Festus prefect of Judea, Paul is accused a fresh, but appeals to Cesar, King Agripa hears Paul, Paul is shipt for Rome, sails by Zidon, to Cyprus, Mira, in Pamphilia, where he is shipt of Alexandria, and came to Guida, thence by Salmona, and so West-wards to the Haven in Creta, called fair-Heavens, neer the City of Lasea, not wintering here, they sailed on to Winter in Phenix, where for fourteen days they had a so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itary journey, all hope of life was passed, and the Ship perished, but all the persons escaped safe, and landed at the Island of Melita, where the Governour Publius was converted, thence they sailed to Syracuse, thence to Rhegium, thence to Pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edi; thence tra<g ref="char:EOLhyphen"/>velled to Apiforum, thence to the three Taverns, and so to Rome, here Paul first preached to the Jews, but they being hardned, he prea<g ref="char:EOLhyphen"/>ched two full years to the Gentiles, in his own hired house, the soul<g ref="char:EOLhyphen"/>diers being his guard, he continues prisoner at Rome, whence he wrote the Epistle to the Galatians, and likewise that to the Ephesi<g ref="char:EOLhyphen"/>ans.</p>
+            <p>Epaphroditius brings him relief from the Philipians, being prison<g ref="char:EOLhyphen"/>er, by whom he returned his Epistle to them: Timothy also delivers him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he alms of Ephesus, and after came Onesimus from his Ma<g ref="char:EOLhyphen"/>ster, by whom St. Paul returns his Epistle to Philemon. Then came Epaphras also to Rome, and after two years imprisonment, he was heard before Nero. Being set at liberty, he goes into Spain, Paul in Gallia ordained Cresceus, from whence he sailed into Greece.</p>
+            <p>St. Paul visits the Churcheism Macedonia, and lands at Troas, in Asia, where Carpus was Bishop, where he left his cloak and parch<g ref="char:EOLhyphen"/>ments, and went up into Phrygia, unto Laodecea, and from thence wrote his Epistle to Timothy at Ephesus, and from thence went to Miletum; hence sailed to Corinth, and hence he sailed to Rome, hence he wrote his second Epistle to Timothy. Paul is imprisoned, being betrayed by Alexander the Copper-smith of Ephesus: Paul was beheaded at Rome, and with him suffered his companions, A<g ref="char:EOLhyphen"/>riffarchus, Trophimus, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udeus.</p>
+            <p>He spent 32 years in preaching the Gospel before he suffered Martyrdom for the Testimony of Jesus.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Phillip Brooksby</hi> in <hi>West-smithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
